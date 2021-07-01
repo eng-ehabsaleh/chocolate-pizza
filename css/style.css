@@ -1,0 +1,126 @@
+header{
+    position: relative;
+    
+    width: 100%;
+    height: 50px;
+
+}
+
+#logo {
+    position: absolute;
+
+}
+
+
+#contact {
+    position: absolute;
+    right: 0px;
+    top: 15px;
+
+}
+
+/* #headerFooter {
+    position: absolute;
+    top: ;
+}
+ */
+
+ header div article h1 {
+     position: absolute; 
+     left: 45px;
+     font-size: 30px;
+     top: 0%;
+
+
+ }
+
+ header div article p {
+     position: absolute;
+     left: 45px;
+     top: 25px;
+     width: 300px;
+     
+ }
+
+ /*  main  */
+
+ main {
+     position: relative;
+     
+ }
+
+ #opening h2 {
+     position: absolute;
+     font-size: 40px;
+     left: 0px;
+     top: 30px;
+
+ }
+
+ #opening p {
+    position: absolute;
+    font-size: 20px;
+    left: 0px;
+    top: 70px;
+ }
+
+     
+#choco{
+    position: absolute;
+    top: 130px;
+    width: 100%;
+    height: 750px;
+}
+
+#par{
+    position: absolute;
+    top: 900px;
+    width: 100%;
+}
+
+#list {
+    position: absolute;
+    top: 1000px;
+    
+    width: 100%;
+}
+
+#left {
+    position: absolute;
+    top: 1100px;
+    left: 10%;
+    font-size: 60px;
+    
+
+}
+
+#right { 
+    position: absolute;
+    top: 1100px;
+    right: 10%;
+    font-size: 60px;
+}
+
+#hashup { 
+    
+    background-image: url(https://abdulelahxd.github.io/chocolate-pizza/img/hr-img.png);
+    height: 40px;
+}
+
+#hashLow { 
+    background-image: url(https://abdulelahxd.github.io/chocolate-pizza/img/hr-img.png);
+    height: 40px;
+    
+    
+}
+
+/* article {
+    position: relative;
+} */
+article div {
+    position: absolute;
+    top: 1600px; ;
+    width: 100%;
+    
+}
+
